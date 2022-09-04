@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suchak123
-- 🌱 I’m currently learning python ...
+- 🌱 I’m currently la begineer at python ...
 - 💞️ I’m looking to collaborate on python projects
 
 <!---
